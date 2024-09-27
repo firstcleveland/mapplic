@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Embedded Map</title>
+</head>
+<body>
+  <mapplic-map data-json="https://mapplic.com/getMapData?id=H3M8nhlOVb56esyvaVeh"></mapplic-map>
+  <script type="text/javascript" id="mapplic-script" src="https://mapplic.com/mapplic.js"></script>
+</body>
+</html>
